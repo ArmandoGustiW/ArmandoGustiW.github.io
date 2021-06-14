@@ -83,6 +83,7 @@ header ul li a:hover{
 
 
 section{
+	background-color: #1200b6;
 	padding: 50px 0;
 }
 section h2{
@@ -99,6 +100,7 @@ section h3{
 	margin-bottom: 20px;
 }
 section p{
+	background-color: #1200b6;
 	color: 	#e9c524;
 	word-spacing: 2px;
 	line-height: 20px;
@@ -109,7 +111,6 @@ section p{
 	background-color: #1200b6;
 }
 .biodata ul li{
-	background-color: #1200b6;
 	text-align: center;
 	padding: 1px 0;
 	color: 	#e9c524;
